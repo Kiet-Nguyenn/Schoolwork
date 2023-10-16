@@ -1,0 +1,12 @@
+25,Pikachu,180,280,5,11,Thunderbolt,60,0,Electric
+
+123,Jynx,120,220,5,2,Minimize,0,0,Normal
+
+119,Staryu,80,180,5,2,Bubble,50,0,Water
+
+140,Kabutops,220,320,5,0,Fissure,80,1,Ground
+
+84,Dodrio,250,350,5,0,Tackle,50,1,Normal
+
+31,Nidoqueen,300,400,5,0,Double Kick,70,2,Normal
+

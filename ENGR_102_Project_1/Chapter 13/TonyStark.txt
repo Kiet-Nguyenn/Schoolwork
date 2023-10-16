@@ -1,0 +1,4 @@
+128,Magikarp,60,160,5,0,Splash,0,0,Water
+
+150,Mewtwo,200,300,5,0,Psychic,150,0,Psychic
+
